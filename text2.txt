@@ -1,1 +1,2 @@
 This file is new.
+This file name is text2.txt
